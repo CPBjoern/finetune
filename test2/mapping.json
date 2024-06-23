@@ -1,0 +1,22 @@
+[
+    {
+        "input":"Kategorien:\n1=Tiere\n2=Pflanzen\n3=Automarken\n4=CPUs\n\nSortiere:\na=Affe\nb=Palme\nc=Mercedes\nd=AMD",
+        "output": "1=a\n2=b\n3=c\n4=d"
+    },
+    {
+        "input":"Kategorien:\n1=Tiere\n2=Pflanzen\n3=Automarken\n4=CPUs\n\nSortiere:\na=VW\nb=Teller\nc=CD\nd=Ahornbaum",
+        "output": "2=d\n3=a"
+    },
+    {
+        "input":"Kategorien:\n1=Tiere\n2=Pflanzen\n3=Automarken\n4=CPUs\n\nSortiere:\na=T-Shirt\nb=AMD",
+        "output": "4=b"
+    },
+    {
+        "input":"Kategorien:\n1=Tiere\n2=Pflanzen\n3=Automarken\n4=CPUs\n\nSortiere:\na=Gänseblümchen\nb=Intel\nc=Papier\nd=Tröte\ne=Sand",
+        "output": "2=a\n4=b"
+    },
+    {
+        "input":"Kategorien:\n1=Tiere\n2=Pflanzen\n3=Automarken\n4=CPUs\n\nSortiere:\na=Elefant\nb=Porsche",
+        "output": "1=a\n3=b"
+    }
+] 
